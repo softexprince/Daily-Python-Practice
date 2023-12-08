@@ -28,3 +28,14 @@ def swaplist(listname, pos1, pos2):
 
 res2 = swaplist(res, 2,4)
 print(res2)
+
+'''
+Task 2 :- Python – Swap elements in String list
+
+'''
+Think = ["Prince", "Prem", "Raja", "Rani"]
+
+stringvalues = ""
+
+for elem in Think:
+    stringvalues.app
